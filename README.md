@@ -8,9 +8,9 @@
 ## *Talk to me about*
 - Front-end development using **HTML, Javascript, CSS, Vue**
 - Backend development using **Node**
-- Known database like *MySQL，MongoDB*
-- Known a little bit *Nginx* and *Linux Command Line*
-- Like reading English IT Blog
+- Known database like **MySQL，MongoDB**
+- Known a little bit **Nginx** and **Linux Command Line**
+- Like reading **English** IT Blog
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qdi5)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
