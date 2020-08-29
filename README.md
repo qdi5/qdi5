@@ -14,12 +14,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qdi5)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2020 - 27 August, 2020
+Week: 21 August, 2020 - 28 August, 2020
 
-Vue.js       9 hrs 37 mins   ██████████████░░░░░░░░░░░   56.53 % 
-JavaScript   4 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.77 % 
-HTML         2 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Vue.js       7 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   42.83 % 
+JavaScript   6 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   38.14 % 
+HTML         2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
