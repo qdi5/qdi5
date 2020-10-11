@@ -12,6 +12,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 October, 2020 - 10 October, 2020
+
+JavaScript                 35 mins         ████████████▒░░░░░░░░░░░░   49.65 % 
+JSON                       29 mins         ██████████▒░░░░░░░░░░░░░░   41.54 % 
+Other                      5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 <!--END_SECTION:waka-->
