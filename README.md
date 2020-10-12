@@ -12,10 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2020 - 10 October, 2020
+Week: 04 October, 2020 - 11 October, 2020
 
-JavaScript                 35 mins         ████████████▒░░░░░░░░░░░░   49.65 % 
-JSON                       29 mins         ██████████▒░░░░░░░░░░░░░░   41.54 % 
-Other                      5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+JavaScript   1 hr 32 mins    █████████████▓░░░░░░░░░░░   54.43 % 
+JSON         32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Vue.js       30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 % 
+YAML         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 <!--END_SECTION:waka-->
