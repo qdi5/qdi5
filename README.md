@@ -12,12 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2020 - 17 October, 2020
+Week: 11 October, 2020 - 18 October, 2020
 
-Vue.js                     9 hrs 14 mins   ████████████░░░░░░░░░░░░░   47.59 % 
-JavaScript                 8 hrs           ██████████▒░░░░░░░░░░░░░░   41.23 % 
-JSON                       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Nginx configuration file   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Other                      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Vue.js                     8 hrs 44 mins   ████████████▒░░░░░░░░░░░░   49.15 % 
+JavaScript                 7 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   39.69 % 
+JSON                       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Nginx configuration file   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Other                      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 <!--END_SECTION:waka-->
