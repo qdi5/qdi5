@@ -12,11 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
-Vue.js                     1 hr 44 mins    ██████████████████▓░░░░░░   74.28 % 
-Nginx configuration file   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-JavaScript                 15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Other                      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+
 ```
 <!--END_SECTION:waka-->
