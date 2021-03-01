@@ -12,6 +12,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 21 February, 2021 - 28 February, 2021
+
+Markdown   1 hr 1 min      ███████████████████▓░░░░░   78.51 % 
+HTML       16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 % 
 ```
 <!--END_SECTION:waka-->
