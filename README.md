@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
 Markdown   1 hr 1 min      ███████████████████▓░░░░░   78.51 % 
 HTML       16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 % 
