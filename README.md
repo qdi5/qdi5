@@ -12,12 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 07 March, 2021 - 14 March, 2021
 
-Vue.js       13 hrs 7 mins   █████████████░░░░░░░░░░░░   52.30 % 
-Markdown     3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-HTML         3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-JavaScript   2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Other        1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Vue.js       13 hrs 7 mins   █████████████▓░░░░░░░░░░░   54.67 % 
+HTML         3 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Markdown     2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+JavaScript   2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Other        1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 ```
 <!--END_SECTION:waka-->
