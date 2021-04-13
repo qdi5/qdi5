@@ -12,10 +12,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2021 - 11 April, 2021
+Week: 05 April, 2021 - 12 April, 2021
 
-HTML       2 hrs 58 mins   █████████████████████░░░░   84.22 % 
-Markdown   28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+HTML       3 hrs 48 mins   █████████████████████▓░░░   87.22 % 
+Markdown   28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 <!--END_SECTION:waka-->
