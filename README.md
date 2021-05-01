@@ -12,9 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 April, 2021 - 29 April, 2021
+Week: 23 April, 2021 - 30 April, 2021
 
-Markdown   1 hr 16 mins    █████████████████▒░░░░░░░   68.69 % 
-HTML       34 mins         ███████▓░░░░░░░░░░░░░░░░░   31.31 % 
+Markdown   1 hr 15 mins    █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
