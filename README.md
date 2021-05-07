@@ -12,8 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
-Markdown   1 hr 15 mins    █████████████████████████   99.99 % 
+
 ```
 <!--END_SECTION:waka-->
