@@ -12,11 +12,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 May, 2021 - 18 May, 2021
+Week: 12 May, 2021 - 19 May, 2021
 
-HTML         11 hrs 55 mins  █████████████████▒░░░░░░░   69.81 % 
-JavaScript   3 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Markdown     1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+HTML         12 hrs 8 mins   ████████████████▓░░░░░░░░   66.33 % 
+JavaScript   3 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Markdown     2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
