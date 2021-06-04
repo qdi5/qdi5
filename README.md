@@ -12,12 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
+Week: 27 May, 2021 - 03 June, 2021
 
-Vue.js       6 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.10 % 
-JavaScript   4 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 % 
-JSON         1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Markdown     1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Vue.js       5 hrs 30 mins   ███████████░░░░░░░░░░░░░░   43.72 % 
+JavaScript   4 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   33.29 % 
+JSON         1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Markdown     1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
