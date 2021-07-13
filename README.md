@@ -12,8 +12,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2021 - 11 July, 2021
+Week: 06 July, 2021 - 12 July, 2021
 
-
+Markdown     2 hrs 36 mins   █████████████████▓░░░░░░░   71.21 % 
+Vue.js       29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+JavaScript   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 <!--END_SECTION:waka-->
