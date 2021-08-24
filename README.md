@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2021 - 22 August, 2021
+Week: 17 August, 2021 - 23 August, 2021
 
 Vue.js       22 mins         ███████████▓░░░░░░░░░░░░░   46.90 % 
 HTML         14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.70 % 
