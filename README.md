@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2021 - 07 September, 2021
+Week: 02 September, 2021 - 08 September, 2021
 
 Markdown     5 hrs 31 mins   ████████████░░░░░░░░░░░░░   47.70 % 
 HTML         3 hrs 41 mins   ████████░░░░░░░░░░░░░░░░░   31.84 % 
