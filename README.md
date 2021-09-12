@@ -12,11 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
-HTML         3 hrs 33 mins   ██████████████████████░░░   87.86 % 
-Markdown     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+HTML       1 hr 58 mins    █████████████████████████   99.96 % 
 ```
 <!--END_SECTION:waka-->
