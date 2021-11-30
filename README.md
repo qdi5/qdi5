@@ -12,9 +12,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2021 - 28 November, 2021
+Week: 23 November, 2021 - 29 November, 2021
 
-HTML         4 hrs 10 mins   ████████████████████████▒   97.13 % 
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+HTML         3 hrs 14 mins   ████████████████████████▒   96.74 % 
+Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 ```
 <!--END_SECTION:waka-->
