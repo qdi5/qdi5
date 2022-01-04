@@ -12,6 +12,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 December, 2021 - 03 January, 2022
+
+JSON         50 mins         █████████████████████▓░░░   86.22 % 
+Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
