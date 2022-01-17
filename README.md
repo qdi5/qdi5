@@ -12,9 +12,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-HTML     7 hrs 45 mins   █████████████████████████   99.75 % 
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+HTML     6 hrs 39 mins   █████████████████████████   99.74 % 
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
